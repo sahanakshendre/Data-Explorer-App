@@ -48,15 +48,15 @@ A simple and interactive Streamlit web application to explore datasets and under
 
 ### 🔹 1. App Interface
 
-![App Interface](./screenshots/app.png)
+![App Interface](screenshots/app.png)
 
 ### 🔹 2. Dataset Preview
 
-![Dataset Preview](./screenshots/dataset_preview.png)
+![Dataset Preview](screenshots/dataset_preview.png)
 
 ### 🔹 3. Histogram Visualization
 
-![Histogram](./screenshots/histogram.png)
+![Histogram](screenshots/histogram.png)
 
 
 ---
