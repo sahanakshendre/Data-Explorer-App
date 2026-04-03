@@ -58,6 +58,12 @@ A simple and interactive Streamlit web application to explore datasets and under
 
 ![Histogram](screenshots/histogram.png)
 
+### 🔹 4. Statistics
+
+![Statistics](screenshots/Statistics.png)
+
+
+
 
 ---
 
