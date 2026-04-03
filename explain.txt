@@ -1,0 +1,12 @@
+
+This project is a Streamlit-based web application designed to help users explore datasets and understand basic statistical concepts.
+
+The user can upload a CSV file, and the application displays a preview of the dataset. It automatically detects numeric columns, allowing the user to select a column for analysis.
+
+The application calculates key statistical measures such as mean, median, standard deviation, minimum, and maximum values. These metrics help in understanding the central tendency and spread of the data.
+
+A histogram is generated to visualize the distribution of the selected column. This helps identify patterns such as skewness, spread, and outliers.
+
+Additionally, the app provides dataset-level statistics and allows users to download a report of the analysis. A text area is also included for users to write insights based on observations.
+
+This project demonstrates practical implementation of data analysis concepts using Python libraries like Pandas, Matplotlib, and Seaborn, along with Streamlit for building interactive web applications.
